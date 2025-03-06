@@ -1,0 +1,10 @@
+{
+  "newsAPI": {
+    "url": "https://newsapi.org/v2/top-headlines?country=us",
+    "apiKey": "9b456207d9584eca811efeb5ccd153fd"
+  },
+  "guardianAPI": {
+    "url": "https://content.guardianapis.com/search",
+    "apiKey": "426e22ca-64c4-488a-97e5-8a560814fbdf"
+  }
+}
