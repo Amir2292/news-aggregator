@@ -2,7 +2,7 @@
 
 A React-based web application that aggregates news articles from multiple sources (NewsAPI.org and The Guardian API) and allows users to search, filter, and view news in a clean and responsive UI.
 
-![Screenshot](screenshot.png) <!-- Add a screenshot of your app here -->
+![Screenshot](news.png) <!-- Add a screenshot of your app here -->
 
 ## Features
 
@@ -19,7 +19,6 @@ A React-based web application that aggregates news articles from multiple source
 - **TypeScript**: Adds static typing to JavaScript for better code quality.
 - **Axios**: For making HTTP requests to the news APIs.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
-- **React Testing Library**: For testing React components.
 
 ## Setup Instructions
 
